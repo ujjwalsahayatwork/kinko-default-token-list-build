@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-07-05T13:38:03.827Z",
+  "timestamp": "2022-08-16T10:34:24.607Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -5105,6 +5105,14 @@
       "logoURI": "https://raw.githubusercontent.com/trustwallet/assets/master/blockchains/binance/assets/BUSD-BD1/logo.png"
     },
     {
+      "name": "FundDex",
+      "symbol": "FDX",
+      "address": "0xD9559d85D99ef70fEf04d953849F02dd57F979CE",
+      "chainId": 97,
+      "decimals": 18,
+      "logoURI": "https://fundex.fund/static/media/kinkoLogo.e103a362.svg"
+    },
+    {
       "name": "USDT Token",
       "symbol": "USDT",
       "address": "0x337610d27c682E347C9cD60BD4b3b107C9d34dDd",
@@ -7342,23 +7350,7 @@
       "name": "Energyfi Token",
       "symbol": "EFT",
       "decimals": 18,
-      "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/15602.png"
-    },
-    {
-      "address": "0x322E86852e492a7Ee17f28a78c663da38FB33bfb",
-      "chainId": 1284,
-      "name": "Frax",
-      "symbol": "FRAX",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/frax.jpg"
-    },
-    {
-      "address": "0x2CC0A9D8047A5011dEfe85328a6f26968C8aaA1C",
-      "chainId": 1284,
-      "name": "Frax Share",
-      "symbol": "FXS",
-      "decimals": 18,
-      "logoURI": "https://raw.githubusercontent.com/sushiswap/icons/master/token/fxs.jpg"
+      "logoURI": "https://energyfi.app/bridge/static/media/eLogo.b8439c58.svg"
     },
     {
       "address": "0x818ec0a7fe18ff94269904fced6ae3dae6d6dc0b",
@@ -7399,6 +7391,14 @@
       "symbol": "WGLMR",
       "decimals": 18,
       "logoURI": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+    },
+    {
+      "address": "0x4A58260Cece4fe85641a6c706E70573a9A71F395",
+      "chainId": 1284,
+      "name": "EnergyfiBar",
+      "symbol": "xEFT",
+      "decimals": 18,
+      "logoURI": "https://energyfi.app/bridge/static/media/eLogo.b8439c58.svg"
     },
     {
       "name": "Aave - AnySwap",
