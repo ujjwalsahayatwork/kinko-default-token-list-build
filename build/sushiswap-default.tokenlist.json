@@ -1,6 +1,6 @@
 {
   "name": "SushiSwap Menu",
-  "timestamp": "2022-08-29T13:52:29.285Z",
+  "timestamp": "2022-09-02T08:15:29.742Z",
   "version": {
     "major": 24,
     "minor": 30,
@@ -5107,7 +5107,7 @@
     {
       "name": "FundDex",
       "symbol": "FDX",
-      "address": "0xa6748E93395cC32c510a2e7BDFE04FF7b546c9ac",
+      "address": "0x55008f1E22E411511c83B627EA944aE1d8b142f4",
       "chainId": 97,
       "decimals": 18,
       "logoURI": "https://fundex.fund/static/media/kinkoLogo.e103a362.svg"
